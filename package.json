@@ -1,0 +1,33 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janie-0919/parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janie-0919/parcel/issues"
+  },
+  "homepage": "https://github.com/janie-0919/parcel#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.8.8",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.12.4",
+    "postcss-modules": "^1.5.0",
+    "posthtml-extend": "^0.3.0",
+    "posthtml-include": "^1.3.3",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
