@@ -1,1 +1,0 @@
-{"version":3,"sources":["src/assets/scripts/main.js"],"names":["console","log"],"mappings":"AAAA;AACAA,OAAO,CAACC,GAAR,CAAY,oBAAZ","file":"main.37cb8231.js","sourceRoot":"..","sourcesContent":["// require('./scss/main.scss');\nconsole.log('Parcel is running!')\n"]}

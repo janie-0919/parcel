@@ -1,0 +1,70 @@
+/*
+|----------------------------------|
+  variables.scss
+|----------------------------------|
+*/
+
+/* point */
+$primary: #f66867;
+
+/* pagination */
+$pagination-padding-y:              0;
+$pagination-padding-x:              0.8125rem;
+$pagination-padding-y-sm:           0;
+$pagination-padding-x-sm:           0;
+$pagination-padding-y-lg:           0;
+$pagination-padding-x-lg:           0;
+
+$pagination-color:                  $primary;
+$pagination-bg:                     transparent;
+$pagination-border-width:           0;
+$pagination-border-radius:          0;
+$pagination-margin-start:           0;
+$pagination-border-color:           transparent;
+
+$pagination-focus-color:            $primary;
+$pagination-focus-bg:               transparent;
+$pagination-focus-box-shadow:       none;
+$pagination-focus-outline:          0;
+
+$pagination-hover-color:            $primary;
+$pagination-hover-bg:               transparent;
+$pagination-hover-border-color:     transparent;
+
+$pagination-active-color:           $primary;
+$pagination-active-bg:              transparent;
+$pagination-active-border-color:    transparent;
+
+$pagination-disabled-color:         $primary;
+$pagination-disabled-bg:            transparent;
+$pagination-disabled-border-color:  transparent;
+
+$pagination-transition:              color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+
+$pagination-border-radius-sm:       0;
+$pagination-border-radius-lg:       0;
+
+$body-color: $primary;
+
+$grid-gutter-width: 2.5rem !default;
+
+$link-hover-decoration: none !default;
+$link-decoration: none !default;
+
+$font-family-base : 'Noto Sans KR' !default;
+$font-family-sans-serif: $font-family-base, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+/* modal */
+$modal-backdrop-opacity:            .5;
+$modal-sm:                          300px;
+$modal-md:                          500px;
+$modal-lg:                          1000px;
+$modal-xl:                          1140px;
+
+$modal-fade-transform:              translate(0, -50px);
+$modal-show-transform:              none;
+$modal-transition:                  transform .3s ease-out;
+$modal-scale-transform:             scale(1);
+/*
+|----------------------------------|
+*/
