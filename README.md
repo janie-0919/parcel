@@ -3,9 +3,9 @@
 
 ## setup
 ```
-$ npm install -g parcel-bundler
+$ npm install
 
-$ npm init -y
+$ npm run dev
 ```
 
 ### Structure
